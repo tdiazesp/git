@@ -1,7 +1,8 @@
-mkdir <Carpeta del proyecto>
-mkdir app00
-cd app00
-touch <nombre del archivo>
+git init
 touch index.html
-
-
+echo "Contenido de index.html"
+git add .
+git remote add origin git@github.com:xxxx/xxxx.git
+git pull origin main --allow-unrelated-histories
+git add .
+git push origin main
