@@ -1,2 +1,3 @@
-# Creando la carpeta del proyecto App00
-mkdir App00
+##Objetivo
+- [x] Crear el entorno de trabajo
+- [] Inicializar git
