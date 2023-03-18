@@ -15,5 +15,5 @@
   
   |             Comando                     |            Descripción        |
 | ----------------------------------------- | ----------------------------- |
-| $${\color{red}git init}$$                 | Iniciando git                 |
-| $${\color{red}git status}$$               | Verificando el estatus de git |
+| $${\color{red}git\space init}$$           | Iniciando git                 |
+| $${\color{red}git\space status}$$         | Verificando el estatus de git |
