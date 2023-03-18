@@ -1,0 +1,7 @@
+mkdir <Carpeta del proyecto>
+mkdir app00
+cd app00
+touch <nombre del archivo>
+touch index.html
+
+
