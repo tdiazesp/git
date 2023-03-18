@@ -1,6 +1,6 @@
 git init
 touch index.html
-echo "Contenido de index.html"
+echo "Contenido de index.html" > index.html
 git add .
 git remote add origin git@github.com:xxxx/xxxx.git
 git pull origin main --allow-unrelated-histories
