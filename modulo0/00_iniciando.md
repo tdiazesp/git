@@ -1,3 +1,3 @@
 ##Objetivo
 - [x] Crear el entorno de trabajo
-- [] Inicializar git
+- [x] Inicializar git
